@@ -1,1 +1,1 @@
-# mahicspace
+# magicspace
